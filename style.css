@@ -1,0 +1,27 @@
+#title {
+    color: #4a4a54;
+    font-style: italic;
+    font-size: 40px;
+}
+#logo {
+    width: 150px;
+    height: auto;
+    position: relative;
+    top: -10px;
+    left: 10px;
+    border-radius: 20px;
+}
+#navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #def6f5;
+    background-size: 30px;
+}
+#top {
+    margin-left: 650px;
+    margin-top: 20px;
+    display: flex;
+}
+#prod {
+    display: flex;
+}
